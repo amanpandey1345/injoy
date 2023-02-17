@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": "16.13.2",
+    "node": "18.14.1",
     "yarn": "1.22.17"
 
   },
